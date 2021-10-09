@@ -1,16 +1,10 @@
 # movie_animation_app
 
-A new Flutter project.
+A Flutter project based on the UI Design from dribble
 
-## Getting Started
+https://dribbble.com/shots/8257559-Movie-2-0
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/71022967/136673693-a535953a-558d-4938-9143-3c439815485e.png)
+![image](https://user-images.githubusercontent.com/71022967/136673703-e6c90c2a-3f55-4cac-8976-e7e1952b34c8.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
